@@ -1,6 +1,5 @@
 {
 "data":["neutralradiance"],
-"context":"",
-"image":"prism.jpg",
-"title": "Prism"
+"backdrop":"prism.jpg",
+"login": "prism"
 }
